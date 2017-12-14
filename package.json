@@ -20,7 +20,7 @@
   "homepage": "https://github.com/matthew-andrews/isomorphic-fetch/issues",
   "dependencies": {
     "node-fetch": "^1.0.1",
-    "whatwg-fetch": "git+https://github.com/CrOrc/fetch.git#CrOrc-fix-resolve-IE-11"
+    "whatwg-fetch": "github:CrOrc/fetch#CrOrc-fix-resolve-IE-11"
   },
   "devDependencies": {
     "chai": "^1.10.0",
